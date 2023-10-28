@@ -254,7 +254,11 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
+<<<<<<< HEAD
   background: url("../img/background.jpg") top center;
+=======
+  background: url("https://github.com/CHEGEBB/My-portfolio-website/blob/main/assets/img/background.jpg") top center;
+>>>>>>> bbc2d41559d56e554a280790fc8a28aa33490aa9
   background-size: cover;
 }
 
