@@ -1,7 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: dark blue;
-  background: url("./img/newback.jpg") center cover no-repeat; 
+  background: url("../img/newback.jpg") center cover no-repeat; 
   animation: wave 1s infinite alternate;
 }
 @keyframes wave {
